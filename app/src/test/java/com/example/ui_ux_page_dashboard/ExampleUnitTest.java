@@ -1,4 +1,4 @@
-package com.example.uiuxloginpage;
+package com.example.ui_ux_page_dashboard;
 
 import org.junit.Test;
 
