@@ -1,4 +1,4 @@
-package com.example.uiuxregisterpage;
+package com.example.uiuxloginpage;
 
 import org.junit.Test;
 
