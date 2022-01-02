@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas DPM Kelompok/UI UX Login Page/app/src/main/res/drawable/button.xml" value="0.12314814814814815" />
+        <entry key="..\:/Tugas DPM Kelompok/UI UX Login Page/app/src/main/res/drawable/fill.xml" value="0.12314814814814815" />
+        <entry key="..\:/Tugas DPM Kelompok/UI UX Login Page/app/src/main/res/drawable/filllayout.xml" value="0.12314814814814815" />
+        <entry key="..\:/Tugas DPM Kelompok/UI UX Login Page/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Tugas DPM Kelompok/app/src/main/res/drawable/button.xml" value="0.13518518518518519" />
+        <entry key="..\:/Tugas DPM Kelompok/app/src/main/res/drawable/fill.xml" value="0.19166666666666668" />
+        <entry key="..\:/Tugas DPM Kelompok/app/src/main/res/drawable/filllayout.xml" value="0.13518518518518519" />
+        <entry key="..\:/Tugas DPM Kelompok/app/src/main/res/drawable/ic_wave.xml" value="0.19166666666666668" />
+        <entry key="..\:/Tugas DPM Kelompok/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/UiUxLoginPage/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
