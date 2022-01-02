@@ -1,4 +1,4 @@
-package com.example.uiuxloginpage;
+package com.example.ui_ux_page_dashboard;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.uiuxloginpage", appContext.getPackageName());
+        assertEquals("com.example.ui_ux_page_dashboard", appContext.getPackageName());
     }
 }
