@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/UI_UX_Page_Dashboard/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/UiUxRegisterPage/app/src/main/res/drawable/button.xml" value="0.13796296296296295" />
+        <entry key="..\:/UiUxRegisterPage/app/src/main/res/drawable/fill.xml" value="0.13796296296296295" />
+        <entry key="..\:/UiUxRegisterPage/app/src/main/res/drawable/filllayout.xml" value="0.13796296296296295" />
+        <entry key="..\:/UiUxRegisterPage/app/src/main/res/drawable/ic_wave__3_.xml" value="0.13796296296296295" />
+        <entry key="..\:/UiUxRegisterPage/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
       </map>
     </option>
   </component>
